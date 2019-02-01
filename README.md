@@ -1,13 +1,16 @@
 # hello
 
-我是为了研究vue的eslint，不过最终还是放弃了。
+我是为了实现VSCode下开发vue项目的eslint规范化，不过目前最终还是放弃了。
 
-尝试才用的方案，prettier和js-beautify
+尝试插件的方案，prettier和js-beautify，或配置[Vetur](https://github.com/vuejs/vetur/blob/master/docs/formatting.md)，其中的问题很多。[Vetur+js-beautify-html](https://github.com/vuejs/vetur/blob/master/server/src/modes/template/services/htmlFormat.ts)
 
-参考的一些链接
+去他参考的一些链接
 
-[js-beautify](https://github.com/beautify-web/js-beautify)
-https://github.com/beautify-web/js-beautify/issues/1404#issuecomment-445357192
+* [vetur configurations](https://vuejs.github.io/vetur/)
+* [js-beautify](https://github.com/beautify-web/js-beautify)
+* [cannot wrap with attrs limit]https://github.com/beautify-web/js-beautify/issues/1404#issuecomment-445357192
+* [vue rules](https://vuejs.org/v2/style-guide/index.html)
+* [Efficient Code Analyzing and Formatting (for Vue.js) with ESLint and Prettier](https://medium.com/@doppelmutzi/eslint-prettier-vue-workflow-46a3cf54332f)
 
 ## 我想要的
 
