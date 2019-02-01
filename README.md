@@ -7,6 +7,7 @@
 去他参考的一些链接
 
 * [vetur configurations](https://vuejs.github.io/vetur/)
+* [eslint-plugin-vue](https://vuejs.github.io/eslint-plugin-vue/)
 * [js-beautify](https://github.com/beautify-web/js-beautify)
 * [cannot wrap with attrs limit]https://github.com/beautify-web/js-beautify/issues/1404#issuecomment-445357192
 * [vue rules](https://vuejs.org/v2/style-guide/index.html)
